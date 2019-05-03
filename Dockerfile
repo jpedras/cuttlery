@@ -44,5 +44,7 @@ RUN apk update && apk add \
     tcpdump \
     tcptraceroute \
     util-linux \
-    vim
+    vim \
+    mongodb-tools \
+    mongodb
 
