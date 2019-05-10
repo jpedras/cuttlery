@@ -46,5 +46,6 @@ RUN apk update && apk add \
     util-linux \
     vim \
     mongodb-tools \
-    mongodb
+    mongodb \
+    jq
 
