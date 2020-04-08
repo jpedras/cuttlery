@@ -45,7 +45,5 @@ RUN apk update && apk add \
     tcptraceroute \
     util-linux \
     vim \
-    mongodb-tools \
-    mongodb \
     jq
 
