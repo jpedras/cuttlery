@@ -34,7 +34,6 @@ RUN apk update && apk add \
     nmap \
     nmap-nping \
     nmap-nping \
-    py-crypto \
     py3-virtualenv \
     python2 \
     scapy \
