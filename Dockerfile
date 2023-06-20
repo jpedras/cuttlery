@@ -1,6 +1,6 @@
 # Shamefully copied from Anders!
 
-FROM alpine:3.12.0
+FROM alpine:3.18.0
  
 RUN apk update
 
@@ -35,7 +35,7 @@ RUN apk update && apk add \
     nmap-nping \
     nmap-nping \
     py3-virtualenv \
-    python2 \
+    python3 \
     scapy \
     socat \
     sox \
